@@ -1,0 +1,10 @@
+instructor/
+results/
+vllm-env/
+.venv/
+chroma_db/
+__pycache__/
+*.log
+*.docx
+*.pdf
+.ipynb_checkpoints/
